@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website\n",
+      "author": [],
+      "contents": "\nI am a first year PhD student in Cognitive, Linguistic, and Psychological sciences at Brown University.\n\n\n\n",
+      "last_modified": "2021-11-11T17:41:30-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Annika McDermott-Hinman",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nThis website is currently under construction\n\n\n\n",
+      "last_modified": "2021-11-11T17:41:30-05:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Projects",
+      "author": [],
+      "contents": "\nThis is where I will list my cool projects.\n\n\n\n",
+      "last_modified": "2021-11-11T17:41:31-05:00"
+    }
+  ],
+  "collections": []
+}

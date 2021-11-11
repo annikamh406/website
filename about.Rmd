@@ -1,0 +1,12 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am a first year PhD student in Cognitive, Linguistic, and Psychological sciences at Brown University.
